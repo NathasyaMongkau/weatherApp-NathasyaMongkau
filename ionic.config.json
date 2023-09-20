@@ -1,0 +1,7 @@
+{
+  "name": "AppCuaca",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
